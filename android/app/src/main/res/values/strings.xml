@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Algoworks</string>
+    <string name="facebook_app_id">2491087271116235</string>
+
+    <string name="fb_login_protocol_scheme">fb2491087271116235</string>
+</resources>

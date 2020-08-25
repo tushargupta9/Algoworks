@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "464514572648",
+    "firebase_url": "https://algoworks-4c179.firebaseio.com",
+    "project_id": "algoworks-4c179",
+    "storage_bucket": "algoworks-4c179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464514572648:android:672ca97980a2c6cf28f6dd",
+        "android_client_info": {
+          "package_name": "com.algo.algoworks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464514572648-t959cc3bk6148oqr4ds5kk8opo3fa8m9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.algo.algoworks",
+            "certificate_hash": "91a95528e8e0633caaeaabe6fadb5506aabe1783"
+          }
+        },
+        {
+          "client_id": "464514572648-iclu1oadi9gscle2nr2mdaesh5l8osc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkrtRuVGXT_tszzSAbZ2YK0jai8fiQ7Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464514572648-iclu1oadi9gscle2nr2mdaesh5l8osc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
